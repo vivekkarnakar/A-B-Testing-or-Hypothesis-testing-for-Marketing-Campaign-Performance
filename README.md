@@ -1,0 +1,2 @@
+# A-B-Testing-or-Hypothesis-testing-for-Marketing-Campaign-Performance
+This project analyzes the effectiveness of two marketing platforms for the same campaign using A/B testing. The Mann-Whitney U test, a non-parametric hypothesis test, was applied to compare conversion rates without assuming normality. The insights help businesses make data-driven decisions on budget allocation for better marketing performance.
